@@ -7,7 +7,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.calculator2"
+        applicationId = "com.example.calculator"
         minSdk = 30
         targetSdk = 34
         versionCode = 1

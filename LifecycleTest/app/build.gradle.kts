@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.calculator"
+    namespace = "com.example.lifecycletest"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.calculator2"
+        applicationId = "com.example.lifecycletest"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
